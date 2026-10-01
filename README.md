@@ -1,4 +1,4 @@
-![[Asset/image_0001.png]]# Member
+# Member
 --- 
 
 | NO  |             Nama              |    NRP     |
